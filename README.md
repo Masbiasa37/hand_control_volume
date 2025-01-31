@@ -15,7 +15,7 @@ Proyek ini menggunakan Python untuk melacak tangan dan mengontrol volume laptop 
 3. Arahkan tangan Anda ke webcam dan atur volume dengan menggerakkan jari telunjuk dan jempol.
 
 ##Instalasi 
-git clone https://github.com/Masbiasa37/hand-tracking-volume-control.git
+git clone https://github.com/Masbiasa37/hand_control_volume.git
 
 ##Bash 
 cd hand-tracking-volume-control
